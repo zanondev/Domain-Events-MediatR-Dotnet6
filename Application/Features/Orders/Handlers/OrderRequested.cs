@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Features.Orders.Events
+namespace Application.Features.Orders.Handlers
 {
-    public class OrderPlacedEvent
+    public class OrderRequested
     {
     }
 }
