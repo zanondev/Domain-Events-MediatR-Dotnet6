@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using Application.Features.Orders;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers.v1.Orders
